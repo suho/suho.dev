@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
-    /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
+    $('.name').css('visibility', 'visible');
+    $('.avatar').css('visibility', 'visible');
     particlesJS("particles-js", {
         "particles": {
             "number": {
