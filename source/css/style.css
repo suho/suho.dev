@@ -34,7 +34,6 @@ body {
     white-space: nowrap;
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: white;
-    visibility: hidden;
 }
 
 @media only screen and (min-width: 600px) {
@@ -48,7 +47,6 @@ body {
     height: 170px;
     border-radius: 50%;
     border: 2px solid #f7f7f7;
-    visibility: hidden;
 }
 
 @media only screen and (max-width: 600px) {
