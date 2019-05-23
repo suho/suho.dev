@@ -97,11 +97,18 @@
         width: 20px;
         height: 20px;
         font-size: 20px;
-        padding: 10px;
+        padding: 5px;
+        padding-top: 7px;
+        padding-bottom: 3px;
         margin: 5px;
         border-radius: 50%;
         border: 1px solid #FFF;
         transition: all .7s;
+    }
+    
+    .icon:hover {
+        color: #3273dc;
+        border: 1px solid #3273dc;
     }
     
     .links {
@@ -116,7 +123,6 @@
     
     .link:hover {
         color: #3273dc;
-        background-color: #fafafa;
     }
     
     @media only screen and (min-width:600px) {
