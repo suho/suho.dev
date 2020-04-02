@@ -17,7 +17,7 @@ body {
     padding: 0;
     margin: 0;
     background-color: #1F1F24;
-    font-family: 'SF-Mono';
+    font-family: 'SF-Mono', 'Menlo';
 }
 
 .container {
