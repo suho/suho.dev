@@ -22,23 +22,40 @@ body {
 
 .container {
     margin: auto;
-    color: white;
+    color: #67B7A4;
     position: absolute;
     padding: 2vw 8vw 2vw 8vw;
+    line-height: 1.3;
+    font-size: 24px;
 }
 
 .comment {
     color: #6C7986;
 }
 
+h1 h2 h3 {
+    word-spacing: -0.3ch;
+}
+
 h1 {
-    color: #FC5FA3;
+    color: #D0A8FF;
+    font-size: 2em;
 }
 
 .title {
-    color: #9EF1DD;
+    color: #5DD8FF;
 }
 
 .contact {
-    color: #D0A8FF;
+    color: #5482FF;
+}
+
+h2 {
+    color: #D0BF69;
+    font-size: 1.5em;
+}
+
+h3 {
+    color: #BF8555;
+    font-size: 1.5rem;
 }
